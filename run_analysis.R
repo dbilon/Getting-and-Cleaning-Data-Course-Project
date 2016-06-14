@@ -3,8 +3,6 @@
 # Week 04 Assignment
 
 #set working directory
-setwd("~/Google Drive/Personal/Courses/Coursera/Getting and Cleaning Data/Week_04/Assignment/Working")
-#setwd("C:/Users/Personal/Google Drive/Personal/Courses/Coursera/Getting and Cleaning Data/Week_04/Assignment/Working")
 
 #load packages
 install.packages("data.table")
